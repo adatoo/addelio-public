@@ -21,4 +21,4 @@ Release notes for each version are on the [Releases](https://github.com/adatoo/a
 
 ---
 
-© ikonISS ltd. All rights reserved.
+© 2026 Arif Datoo. All rights reserved.
