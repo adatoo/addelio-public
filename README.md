@@ -1,6 +1,6 @@
 # Addelio
 
-Addelio is a Mac email client for Gmail, with a document library underneath.
+Addelio is a Mac email client for Gmail.
 
 This repository holds **releases and public bug reports only**. Addelio's source code is not here.
 
